@@ -1,0 +1,11 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "fr.soraxdubbing.thirsty.mixin",
+  "refmap": "refmap.thirsty.json",
+  "mixins": [
+    "MixinEntityPlayerWaterBar",
+    "MixinItemPotion"
+  ],
+  "client": [],
+  "server": []
+}
